@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+}
+
+.inputs {
+        
+}
+
+div {
+    color: white;
+}
+
+.color {
+    margin: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.square{
+    width: 14rem;
+    height: 14rem;
+    border-radius: 14rem;
+    margin: 4rem auto;
+    text-align: center;
+}
+input {
+    border-radius: 2rem;
+}
+
+input#red {
+    padding-top: 10px;
+    height: 10px;
+    width: 60px;
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 20px;
+}
+
+input#green {
+    padding-top: 10px;
+    height: 10px;
+    width: 60px;
+    color: rgb(61,230,61);
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 20px;
+}
+input#blue {
+    padding-top: 10px;
+    height: 10px;
+    width: 60px;
+    color: blue;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 20px;
+
+}
+
